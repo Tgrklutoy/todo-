@@ -10,5 +10,9 @@
   width: 100%;
   border: solid;
   font-size: 25px;
-  padding: 3px 140px;
+  padding: 2px 160px;
+  overflow: scroll;
+  object-fit: contain;
+  background-color: antiquewhite;
+  align-items: flex-start;
 }
